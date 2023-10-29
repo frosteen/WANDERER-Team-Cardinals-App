@@ -1,1 +1,1 @@
-"# WANDERER-Team-Cardinals-App" 
+# WANDERER-Team-Cardinals-App
