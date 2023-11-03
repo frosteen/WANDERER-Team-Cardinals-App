@@ -39,6 +39,7 @@ To Enable people to compete with one another by promoting healthy lifestyle of W
 - Characters are animated, and animation stops when the player is not moving.
 - When the player wishes to close the application, the player would return to its previous challenge if the player wishes to open the application.
 
-**If you liked our hard work, We would really appreciate if you can buy some coffee for us.**
+## Tip
+**If you liked my hard work, I would really appreciate if you can buy some coffee for me.**
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/frosteen)
