@@ -1,5 +1,4 @@
 # WANDERER-Team-Cardinals-App
-
 Android Masters 2019
 
 ### Background
@@ -72,7 +71,7 @@ To enable people to compete with one another by promoting a healthy lifestyle of
 * **RankingView**<br>
 ![3264.jpg](./pictures/3264.jpg)
 
-### Tip
+## Tip
 **If you like our hard work, I would appreciate it if you could buy some coffee for us.**
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/frosteen)
