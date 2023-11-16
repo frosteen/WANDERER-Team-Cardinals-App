@@ -61,15 +61,15 @@ To enable people to compete with one another by promoting a healthy lifestyle of
 - When the player wishes to close the application, the player would return to the previous challenge if the player wishes to open the application.
 
 ## Android App Design
-* **MainMenu**
+* **MainMenu**<br>
 ![3266.jpg](./pictures/3266.jpg)
-* **Goal**
+* **Goal**<br>
 ![3263.jpg](./pictures/3263.jpg)
-* **PlayerView**
+* **PlayerView**<br>
 ![3261.jpg](./pictures/3261.jpg)
-* **ChallengeView**
+* **ChallengeView**<br>
 ![3265.jpg](./pictures/3265.jpg)
-* **RankingView**
+* **RankingView**<br>
 ![3264.jpg](./pictures/3264.jpg)
 
 ### Tip
