@@ -60,7 +60,7 @@ To enable people to compete with one another by promoting a healthy lifestyle of
 - Characters are animated, and the animation stops when the player is not moving.
 - When the player wishes to close the application, the player would return to the previous challenge if the player wishes to open the application.
 
-## Android App Design
+### Android App Design
 * **MainMenu**<br>
 ![3266.jpg](./pictures/3266.jpg)
 * **Goal**<br>
